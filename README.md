@@ -59,3 +59,5 @@ I got this dataset from [Kaggle](https://www.kaggle.com/datasets/ankitverma2010/
 
 ### By implementing these recommendations, this company can improve customer retention, reduce churn rates, and build long-term loyalty, leading to sustainable growth and success
 
+##E-commerce Customer Churn Dashboard
+![image](https://github.com/sahil-21-raghuwanshi/E-commerce-Customer-Churn-Analysis-/blob/main/E-commerce%20Customer%20Churn%20Dashboard.PNG)
