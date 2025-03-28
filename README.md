@@ -25,6 +25,10 @@ I got this dataset from [Kaggle](https://www.kaggle.com/datasets/ankitverma2010/
 16.What is the average number of days since the last order for churned customers? <br>
 17.Is there any correlation between cashback amount and churn rate? <br>
 
+
+## E-commerce Customer Churn Dashboard
+![image](https://github.com/sahil-21-raghuwanshi/E-commerce-Customer-Churn-Analysis-/blob/main/E-commerce%20Customer%20Churn%20Dashboard.PNG)
+
 ## Insight Section
 •	The dataset includes 5,630 customers, providing a substantial sample size for analysis. <br>
 •	The overall churn rate is 16.84%, indicating significant customer attrition. <br>
@@ -59,5 +63,3 @@ I got this dataset from [Kaggle](https://www.kaggle.com/datasets/ankitverma2010/
 
 ### By implementing these recommendations, this company can improve customer retention, reduce churn rates, and build long-term loyalty, leading to sustainable growth and success
 
-##E-commerce Customer Churn Dashboard
-![image](https://github.com/sahil-21-raghuwanshi/E-commerce-Customer-Churn-Analysis-/blob/main/E-commerce%20Customer%20Churn%20Dashboard.PNG)
