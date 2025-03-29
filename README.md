@@ -3,6 +3,8 @@ Welcome to the Customer Churn Analysis Project repository! This project aims to 
 ## What is Customer churn
 Customer churn refers to the situation when customers decide to stop doing business with a company. This is a significant concern for businesses, as it hampers customer retention and overall success. In the fast-paced world of online retail, e-commerce companies face the challenge of retaining customers. To address this, identifying at-risk customers and implementing targeted retention strategies are crucial. This article presents a detailed analysis of a dataset from an online retail company, revealing valuable insights on customer churn. These insights offer essential guidance for decision-making, enabling proactive measures to reduce attrition and foster long-term loyalty. By understanding the factors driving churn, companies can mitigate attrition by providing appealing promotions and ensuring ongoing customer engagement.
 
+> ChurnRate = TotalNumberofChurnedCustomers / TotalNumberofCustomers
+
 ## Project Approach
 I got this dataset from [Kaggle](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction?sort=most-comments), and it contains information such as customers' personal details, satisfaction scores, preferred payment mode, days since the last order, and cashback amount. I used SQL (Azure Data Studio) to clean and analyze this dataset, and performed visualizations using Microsoft Power BI. This analysis is divided into several stages: data cleaning, data exploration, an insight section, and recommendations.
 
